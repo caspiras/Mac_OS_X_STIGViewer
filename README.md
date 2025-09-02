@@ -18,10 +18,10 @@ While this may be a small or minusucle example, having the most up-to-day STIGVi
 Using Cursor AI, prompt the program to use existing Linux and Windows OS new 2.X versions, to recreate it for Mac OS X .dmg.
 
 
-#Result
+# Result
 
 Fully functional meaning creating, importing, exporting, saving, etc. 
 
-#Issues
+# Issues
 
 
