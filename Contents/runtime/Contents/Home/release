@@ -1,0 +1,2 @@
+JAVA_VERSION="17.0.16"
+MODULES="java.base java.datatransfer java.xml java.prefs java.desktop java.logging java.net.http javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.media jdk.jsobject jdk.xml.dom javafx.web mil.disa.stigviewer.app"
