@@ -15,7 +15,7 @@ While this may be a small or minusucle example, having the most up-to-day STIGVi
 
 ## Solution
 
-Using Cursor AI, prompt the program to use existing Linux and Windows OS new 2.X versions, to recreate it for Mac OS X .dmg.
+Using Cursor AI, the program was prompted to use the existing Linux and Windows OS new 2.X versions, to recreate it for Mac OS X .dmg.
 
 
 ## Result
