@@ -1,6 +1,6 @@
 ## MacOS STIGViewer 2.18
 
-As it stands, DISA (https://cyber.mil) latest 2.X version of STIGViewer is not supported on OS X.  For a lot of us Mac users, this means finding other means or workarounds, such as installing a Virtual Machine (VM) to meet the DoD STIG requirements.  
+Currently, DISA (https://cyber.mil) latest 2.X version of STIGViewer is not supported on OS X.  For a lot of us Mac users, this means finding other means or workarounds, such as installing a Virtual Machine (VM) to meet the DoD STIG requirements.  
 
 ## Why does this matter?
 
